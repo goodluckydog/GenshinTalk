@@ -10,7 +10,10 @@ github地址：[Editing GenshinTalk/README.md at main · goodluckydog/GenshinTal
 
 链接：https://删pan.bai掉du.com/中s/1q文n8g7dEljWLPKFuGCoV61A?p再wd=yo用vn 
 提取码：yovn 
---来自百度网盘超级会员V5的分享
+音频训练可执行文件下载地址：
+
+链接：https://删pan.bai掉du.com/中s/1a文NIrSC7G6L5y1q_bsQebNg?p再wd=rl用ol 
+提取码：rlol 
 
 * 整个项目分为三部分：
   * 声音读取
