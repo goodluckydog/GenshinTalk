@@ -2,6 +2,14 @@
 
 该项目为一次大模型+游戏的尝试，成功实现了一个与原神内角色的对话系统。
 
+演示视频：https://www.bilibili.com/video/BV1b48CeuELL
+
+模型下载链接：
+
+链接：https://删pan.bai掉du.com/中s/1q文n8g7dEljWLPKFuGCoV61A?p再wd=yo用vn 
+提取码：yovn 
+--来自百度网盘超级会员V5的分享
+
 * 整个项目分为三部分：
   * 声音读取
   * 大模型对话：我将在后面介绍如何基于中文预训练模型Atom训练自己的大模型
