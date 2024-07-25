@@ -57,7 +57,7 @@ git clone https://www.modelscope.cn/damo/punc_ct-transformer_cn-en-common-vocab4
 ## 3.1数据
 
 在根目录下有个LLM的文件夹，可以用来训练自己的大模型，首先你需要在LLM/data下创建一个自己的数据集.json文件，形式如下：
-
+![image-20240721161150036](https://github.com/user-attachments/assets/e8f6b27c-4afe-4944-b8f9-6c7b25b6b4a3)
 刻晴的数据集是我手打的，主要来源为(这个自己打字太花时间了，我就只做了100条数据，请大家根据自己的需要制作自己的角色的数据集，也可以根据自己的理解增加数据)：
 
 * 原神里刻晴的好感度对话
@@ -91,7 +91,6 @@ BertVITS2-2.3整合版教程：https://www.bilibili.com/video/BV13p4y1d7v9
 ## 4.2接口调整
 
 * 当你训练好模型后，你的模型文件会被保存在根目录下Data\项目名\models\下，以G开头的.pth中，选择一个模型并保存好它的路径，前往webui.py中修改这一行代码：
-![image-20240721161150036](https://github.com/user-attachments/assets/e8f6b27c-4afe-4944-b8f9-6c7b25b6b4a3)
 
 ```python
 net_g = get_net_g(model_path="你刚才保存好的模型路径", version="2.3", device="cuda:0", hps=hps)
