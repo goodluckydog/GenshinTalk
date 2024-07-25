@@ -1,0 +1,15 @@
+LLM_checkpoint: FlagAlpha/Atom-7B-Chat
+LLM_dataset_path: D:\learn\ScientificResearch\LLM\data\keqing.json
+LoRA_save_path: D:\learn\ScientificResearch\LLM\keqing_LoRA_400
+
+speaker: keqing
+sdp_ratio: 0.5
+noise_scale: 0.6
+noise_scale_w: 0.9
+length_scale: 1
+language: "ZH"
+reference_audio: ""
+emotion: ""
+prompt_mode: ""
+style_text: ""
+style_weight: 0
